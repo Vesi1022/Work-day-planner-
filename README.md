@@ -15,3 +15,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+Kindly find below link for live page: 
+https://vesi1022.github.io/Work-day-planner-/
